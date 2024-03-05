@@ -19,6 +19,9 @@ Our environment and package versions are:
 
 
 ## Acknowledgements
+The code has been published in the IEEE Internet of Things Journal and is available for reading and citation：
+Yin, Cunyi, et al. "PowerSkel: A Device-Free Framework Using CSI Signal for Human Skeleton Estimation in Power Station." IEEE Internet of Things Journal (2024).
+
 This repo is partly based on the following repos, thank the authors a lot.
 - [shaoeric/Online-Knowledge-Distillation-via-Collaborative-Learning](https://github.com/shaoeric/Online-Knowledge-Distillation-via-Collaborative-Learning)
 - [gpeyre/SinkhornAutoDiff](https://github.com/gpeyre/SinkhornAutoDiff)
